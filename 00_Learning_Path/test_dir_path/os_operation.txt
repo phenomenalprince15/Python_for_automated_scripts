@@ -1,0 +1,6 @@
+total 9
+-rw-r--r-- 1 wikis 197609 654 Sep 17 14:29 00_File_management.py
+-rw-r--r-- 1 wikis 197609 490 Sep 17 14:37 OS_operations.py
+-rw-r--r-- 1 wikis 197609  30 Sep 17 14:17 README.md
+drwxr-xr-x 1 wikis 197609   0 Sep 17 14:33 test
+drwxr-xr-x 1 wikis 197609   0 Sep 17 14:37 test_dir_path
